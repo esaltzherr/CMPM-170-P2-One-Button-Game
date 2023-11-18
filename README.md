@@ -8,7 +8,7 @@
 [cro]: http://abagames.sakura.ne.jp/html5/cr/
 
 
-play game at: [game-url]
+play game at: [GravityBird][game-url]
 
 Created and designed by Elroy Saltzherr
 made using the [CrispGameLib][cgl-url]
